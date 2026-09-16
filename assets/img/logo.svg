@@ -1,0 +1,14 @@
+<svg viewBox="0 0 600 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HT Estopas">
+  <defs>
+    <linearGradient id="swooshGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#123A6B"/>
+      <stop offset="55%" stop-color="#1E88E5"/>
+      <stop offset="100%" stop-color="#5AA9F0"/>
+    </linearGradient>
+  </defs>
+
+  <text x="46" y="172" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-style="italic" font-size="170" fill="#17181C">HT</text>
+
+  <path d="M 46 208 C 130 196 300 190 420 196 C 470 198 520 204 552 214"
+        fill="none" stroke="url(#swooshGrad)" stroke-width="16" stroke-linecap="round"/>
+</svg>
