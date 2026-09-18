@@ -693,7 +693,7 @@ section { padding: 100px 0; }
 @media (max-width: 560px) {
   section { padding: 70px 0; }
   .hero { padding: 90px 0 100px; min-height: 560px; }
-  .hero-bg { width: 100%; opacity: .3; -webkit-mask-image: linear-gradient(180deg, transparent 0%, #000 45%); mask-image: linear-gradient(180deg, transparent 0%, #000 45%); }
+  .hero-bg { width: 100%; opacity: .3; object-position: 78% center; -webkit-mask-image: linear-gradient(180deg, transparent 0%, #000 45%); mask-image: linear-gradient(180deg, transparent 0%, #000 45%); }
   .hero .inner { max-width: 100%; }
   .btn { padding: 14px 22px; font-size: 14px; }
   .product-gallery { grid-template-columns: repeat(2, 1fr); }
